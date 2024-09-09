@@ -1,0 +1,20 @@
+
+                    batch_size: 16                            
+                  cbam_filters: 16                            
+                   feature_dim: 200                           
+                in_kernel_size: 1                             
+                            lr: 0.001                         
+                  n_epochs_tfa: 200                           
+                    n_training: 1000                          
+                  n_validation: 100                           
+                       no_cuda: False                         
+                   out_filters: 16                            
+                    output_dir: E:/CTNet/CTNet2/checkpoint    
+                  random_state: 42                            
+                   red_filters: 16                            
+                    red_layers: 20                            
+               save_epoch_freq: 2                             
+               tfa_module_type: ctn                           
+                      tfr_size: 400                           
+                    upsampling: 2                             
+                      use_cuda: True                          
