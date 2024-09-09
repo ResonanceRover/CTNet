@@ -1,6 +1,6 @@
 # CTNet  
   
-This is the main framework of the CTNet code, based on the paper "CTNet: A data-driven time-frequency technique for wind turbines fault diagnosis under time-varying speeds".  
+This is the main framework of the CTNet code, based on the paper "CTNet: A data-driven time-frequency technique for wind turbines fault diagnosis under time-varying speeds,' published in ISA Transaction in Aug. 2024.".
   
 ## Introduction  
   
